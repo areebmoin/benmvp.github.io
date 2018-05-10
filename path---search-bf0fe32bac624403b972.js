@@ -1,0 +1,2 @@
+webpackJsonp([0xe7884ae5879b],{839:function(a,e){a.exports={data:{site:{siteMetadata:{algolia:{appId:"65QT7H1BB1",searchOnlyApiKey:"928db70cddb128c94bab35cc442a66a2",indexName:"www.benmvp.com"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---search-bf0fe32bac624403b972.js.map

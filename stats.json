@@ -29,8 +29,8 @@
       "path---speak-b4c40ba27dbd5360a275.js.map"
     ],
     "path---": [
-      "path----2d57629bd77a2fd56637.js",
-      "path----2d57629bd77a2fd56637.js.map"
+      "path----262e5bd9707af5e0f1df.js",
+      "path----262e5bd9707af5e0f1df.js.map"
     ],
     "path---learning-es-6-block-level-scoping-let-const": [
       "path---learning-es-6-block-level-scoping-let-const-97792893b667d478f914.js",
@@ -65,8 +65,8 @@
       "path---learning-es-6-new-collections-280bba399bae9e45fc54.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-962259a278af516eae8c.js",
-      "component---src-layouts-index-js-962259a278af516eae8c.js.map"
+      "component---src-layouts-index-js-4baa3a98baf6d1231c91.js",
+      "component---src-layouts-index-js-4baa3a98baf6d1231c91.js.map"
     ],
     "path---learning-es-6-destructuring": [
       "path---learning-es-6-destructuring-7151698cd5e8a4976323.js",
@@ -143,9 +143,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-4cd80b8caf0c83432f9c.js",
+      "app-313ef10f3e384b8830ac.js",
       "build-js-styles.css",
-      "app-4cd80b8caf0c83432f9c.js.map",
+      "app-313ef10f3e384b8830ac.js.map",
       "build-js-styles.css.map"
     ],
     "path---learning-es-6-classes": [
